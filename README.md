@@ -61,7 +61,7 @@
   </a>
 
 <a href = "https://x.com/ShriGanesh019" target = "_blank" >
- <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FShriGanesh019">
+<img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FShriGanesh019&style=flat-square&logoSize=auto">
 </a>  
 <a href="mailto:developer.sgpurohit@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
