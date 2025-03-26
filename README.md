@@ -7,11 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriGaneshPurohit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D5603AQHZcoEGtX2n8g/profile-displayphoto-shrink_800_800/0/1672679663942?e=1714003200&v=beta&t=tvJwLvjUAAtY1dJEULhcOOkH_QfwhaT0K2rryQCkJiI"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
